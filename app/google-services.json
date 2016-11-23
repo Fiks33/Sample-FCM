@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492052598888",
+    "firebase_url": "https://paguyuban-142603.firebaseio.com",
+    "project_id": "paguyuban-142603",
+    "storage_bucket": "paguyuban-142603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492052598888:android:f546792087b04ae7",
+        "android_client_info": {
+          "package_name": "com.trustudio.android.paguyuban.mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492052598888-gle00rehrn7ht49q83t7ajn670jjuubo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trustudio.android.paguyuban.mitra",
+            "certificate_hash": "91E5251D15E707742E114B82A944C1E3B00FF4E9"
+          }
+        },
+        {
+          "client_id": "492052598888-3p6gn3immsiiluh85mejligf9ae4c8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NnTupem0AWeLFrwv-bVXGnAEXYw8O2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492052598888-3p6gn3immsiiluh85mejligf9ae4c8k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
